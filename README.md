@@ -13,6 +13,12 @@ Some examples of possible use cases are:
 
 #### And many more
 
+## Installation
+WatonAPI is available on PyPi, so you can install it with `pip`
+```
+pip install watonapi
+```
+
 ## How to use
 
 ### Documentation will be released soon
